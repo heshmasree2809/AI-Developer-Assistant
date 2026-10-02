@@ -1,0 +1,7 @@
+{
+  "name": "AI Developer Assistant",
+  "description": "AI-Powered Code Review, Bug Detection, Refactoring, Test & Documentation Generation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
