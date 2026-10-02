@@ -228,7 +228,7 @@ npm run lint
 
 ---
 
-## 💡 Why This Project Stands Out to Recruiters
+## 💡 Why This Project Stands Out 
 
 1. **Production-Ready Full-Stack Architecture**: Demonstrates mastery of end-to-end TypeScript, combining a clean React 19 frontend with a robust Express backend.
 2. **Defensive AI Engineering**: Rather than making naive LLM calls, the codebase incorporates model fallback cascades, deprecated model sanitization, and structured JSON parsing safeguards.
